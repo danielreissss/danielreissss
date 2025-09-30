@@ -11,6 +11,4 @@
 - LinkedIn: [Daniel Reis Araújo](https://www.linkedin.com/in/daniel-reis-araújo-833a50361)  
 
 ---
-
-### 🛠️ Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus&logoColor=00599C)

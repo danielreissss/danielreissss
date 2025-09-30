@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello World! My name is Daniel 👋
 
-<!--
-**danielreissss/danielreissss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 2nd semester student at **UFLA - Federal University of Lavras**  
 
-Here are some ideas to get you started:
+💻 I have intermediate knowledge in **C++**  
+🌱 I've also worked with **HTML** and **JavaScript**  
+🚀 I'm currently looking for **internship opportunities** to grow and gain experience in the industry  
+💖 I'm motivated to learn and collaborate on projects that can make an impact  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at:  
+- E-mail: **daniel,araujo2@estudante.ufla.br**  
+- LinkedIn: [Daniel Reis Araújo](https://www.linkedin.com/in/daniel-reis-araújo-833a50361)  
+
+---
+
+### 🛠️ Technologies & Tools
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus&logoColor=00599C)

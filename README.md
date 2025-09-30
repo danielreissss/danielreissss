@@ -8,7 +8,7 @@
 💖 I'm motivated to learn and collaborate on projects that can make an impact  
 
 📫 Reach me at:  
-- E-mail: **daniel,araujo2@estudante.ufla.br**  
+- E-mail: **daniel.araujo2@estudante.ufla.br**  
 - LinkedIn: [Daniel Reis Araújo](https://www.linkedin.com/in/daniel-reis-araújo-833a50361)  
 
 ---

@@ -1,7 +1,7 @@
 # Hello World! My name is Daniel 👋
 
 🎓 I'm a 2nd semester student at **UFLA - Federal University of Lavras**  
-🏢 I'm also a Treinee of **Comp. Jr.**, the Junior Enterprise of Computer Science at UFLA  
+🏢 I'm also a Trainee of **Comp. Jr.**, the Junior Enterprise of Computer Science at UFLA  
 💻 I have intermediate knowledge in **C++**  
 🌱 I've also worked with **HTML** and **JavaScript**  
 🚀 I'm currently looking for **internship opportunities** to grow and gain experience in the industry    

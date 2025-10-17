@@ -1,6 +1,6 @@
 # Hello World! My name is Daniel 👋
 
-🎓 I'm a 2nd semester student at **UFLA - Federal University of Lavras** 
+🎓 I'm a 2nd semester Computer Science student at **UFLA - Federal University of Lavras** 
 
 🏢 I'm also a Trainee of **Comp. Jr.**, the Junior Enterprise of Computer Science at UFLA  
 

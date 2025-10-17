@@ -1,15 +1,16 @@
 # Hello World! My name is Daniel 👋
 
-🎓 I'm a 2nd semester student at **UFLA - Federal University of Lavras**  
-🏢 I'm also a Trainee of **Comp. Jr.**, the Junior Enterprise of Computer Science at UFLA  
-💻 I have intermediate knowledge in **C++**  
-🌱 I've also worked with **HTML** and **JavaScript**  
+🎓 I'm a 2nd semester student at **UFLA - Federal University of Lavras** 🏢 I'm also a Trainee of **Comp. Jr.**, the Junior Enterprise of Computer Science at UFLA  
+💻 I've worked with **C++**, **HTML**, **JavaScript** and **SQL**.
 🚀 I'm currently looking for **internship opportunities** to grow and gain experience in the industry    
 
 ---
 
 ## 🛠 Skills & Technologies  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 

@@ -1,10 +1,14 @@
 # Hello World! My name is Daniel 👋
 
-🎓 I'm a 2nd semester Computer Science student at **UFLA - Federal University of Lavras**. 
+🎓 I'm a 3rd period Computer Science student at **UFLA - Federal University of Lavras**. 
 
-🏢 I'm also a Trainee of **Comp. Jr.**, the Junior Enterprise of Computer Science at UFLA.  
+🔬 I'm currently working as a **Virtual Reality Developer** in a Scientific Initiation project with Fundecc, developing immersive VR applications and 3D environments using **Unity and C#**.
 
-💻 I've worked with **C++**, **HTML**, **JavaScript** and **SQL**.
+📡 Previously, I worked as an **RF and 5G Spectrum Engineering Scholar**, analyzing 5G NR signals and verifying modulation quality and wave performance.
+
+🏢 I was also a Trainee at **Comp. Jr.**, the Junior Enterprise of Computer Science at UFLA.  
+
+💻 I have experience working with **C++, C#, Python, HTML, JavaScript, and SQL**.
 
 🛒 Recently, I developed a complete **E‑commerce REST API** using **Node.js**, **Express**, **MySQL**, **Docker**, **JWT authentication**, **bcrypt** for password hashing, and **Jest + Supertest** for automated tests.
 
@@ -15,6 +19,9 @@
 ## 🛠 Skills & Technologies  
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)

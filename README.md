@@ -1,6 +1,6 @@
 # Hello World! My name is Daniel 👋
 
-🎓 I'm a 3rd period Computer Science student at **UFLA - Federal University of Lavras**. 
+🎓 I'm a 4th period Computer Science student at **UFLA - Federal University of Lavras**. 
 
 🔬 I'm currently working as a **Virtual Reality Developer** in a Scientific Initiation project with Fundecc, developing immersive VR applications and 3D environments using **Unity and C#**.
 
